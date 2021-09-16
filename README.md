@@ -13,7 +13,7 @@ Here's a list of every email address Timothy has used. Aliases are indented.
 
 * timothygu99@gmail.com
 * timothy\_gu@hotmail.com
-* timothy\_gu@outlook.com
+  * timothy\_gu@outlook.com
 * tgu0@ivc.edu (2014–2015)
 * tiancheng.gu@smhsstudents.org (2014–2017)
 * timothy@pixelclubs.org (2015–2017)
@@ -21,9 +21,9 @@ Here's a list of every email address Timothy has used. Aliases are indented.
   * timothygu@g.ucla.edu
 * timothygu@engineering.ucla.edu (2017–)
 * timothygu@google.com (2018-06 – 2018-09 & 2019-06 – 2019-09)
+  * timothygu@chronicle.security (2019-06 – 2019-09)
 * timothygu@chromium.org (2018-07 –)
 * timothy.gu@joinhoney.com (2018-09 – 2018-12)
-* timothygu@chronicle.security (2019-06 – 2019-09)
 * tigu@tesla.com (2020-06 – 2021-06)
   * tigu@teslamotors.com
 * timothygu99@protonmail.com (2020–)
